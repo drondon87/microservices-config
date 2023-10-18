@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related PROD APIs"
+  contactDetails:
+    name: "Domingo Prueba - Product Owner"
+    email: "domingoprueba@gmail.com"
+  onCallSupport:
+    - (888) 987-7668
+    - (888) 656-5677

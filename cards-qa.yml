@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank Cards related QA APIs"
+  contactDetails:
+    name: "Alfredo Isturiz - QA Leader"
+    email: "alfredo@gmail.com"
+  onCallSupport:
+    - (777) 789-7668
+    - (777) 567-5677
