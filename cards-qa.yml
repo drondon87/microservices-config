@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank Cards related QA APIs"
+  message: "Welcome to EazyBank Cards related Quality Assurances APIs"
   contactDetails:
     name: "Alfredo Isturiz - QA Leader"
     email: "alfredo@gmail.com"

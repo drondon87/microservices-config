@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related PROD APIs"
+  message: "Welcome to EazyBank accounts related Production APIs"
   contactDetails:
     name: "Domingo Prueba - Product Owner"
     email: "{cipher}b34f89c174fa065ef311647926b62f79cc9e47f177f5b5f277c08be5ed9e3fec64c8e80d47886dc3324b9e83a179bb67"
