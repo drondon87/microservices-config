@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related Production APIs"
   contactDetails:
-    name: "Domingo Prueba - Product Owner"
+    name: "Domingo Rondon - Product Owner"
     email: "{cipher}b34f89c174fa065ef311647926b62f79cc9e47f177f5b5f277c08be5ed9e3fec64c8e80d47886dc3324b9e83a179bb67"
   onCallSupport:
-    - (888) 987-7668
-    - (888) 656-5677
+    - (888) 555-7668
+    - (888) 999-5677

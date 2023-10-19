@@ -4,8 +4,8 @@ build:
 loans:
   message: "Welcome to EazyBank Loans related Production APIs"
   contactDetails:
-    name: "Domingo Prueba - Product Owner"
+    name: "Domingo Isturiz - Product Owner"
     email: "domingoprueba@gmail.com"
   onCallSupport:
-    - (888) 987-7668
-    - (888) 656-5677
+    - (888) 222-7668
+    - (888) 888-5677
