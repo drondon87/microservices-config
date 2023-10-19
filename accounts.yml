@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs"
+  message: "Welcome to EazyBank accounts related Local Default APIs"
   contactDetails:
     name: "Domingo Rondon - Developer"
-    email: "domingoprueba@gmail.com"
+    email: "domingorondon@gmail.com"
   onCallSupport:
     - (555) 555-7668
     - (555) 543-5677

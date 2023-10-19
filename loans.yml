@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to EazyBank Loans related local APIs"
+  message: "Welcome to EazyBank Loans related Default APIs"
   contactDetails:
     name: "Domingo Rondon - Developer"
-    email: "domingo@gmail.com"
+    email: "domingoalfredo@gmail.com"
   onCallSupport:
     - (555) 555-7668
     - (555) 543-5677
